@@ -1,0 +1,496 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: url(23.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg {
+  background-image: url(Sliders_Hero2017-2-302a6cef.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.overvely{
+    background-color: rgba(0, 0, 0, 0.674);
+}
+.v {
+  height: 755px;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.131);
+}
+.navbar-brand {
+  font-family: "Creepster", system-ui;
+  font-size: 55px;
+  color: #fff;
+  font-style: italic;
+}
+.navbar-brand:hover {
+  color: #c38e12;
+}
+.nav-item {
+  padding: 0px 20px;
+}
+.nav-link {
+  font-family: "Creepster", system-ui;
+  font-size: 20px;
+  color: #d7cfcf;
+  font-style: italic;
+}
+.nav-link:hover {
+  color: #c38e12;
+}
+.fa-user,
+.fa-cart-shopping {
+  font-size: 20px;
+  color: #d7cfcf;
+  margin: 0px 10px;
+}
+.navbar-toggler {
+  background-color: #d7cfcf;
+}
+.center-text h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: "Creepster", system-ui;
+  font-size: 9rem;
+  color: #c38e12;
+  font-style: italic;
+  margin-top: 300px;
+}
+.about{
+    margin-top: 150px;
+    margin-bottom: 100px;
+    background-color: transparent;
+}
+.about h1{
+    font-family: "Creepster", system-ui;
+  font-size: 60px;
+  color: #d7cfcf;
+  font-style: italic;
+  margin-bottom: 50px;
+}
+.about h2{
+    font-family: sans-serif;
+  font-size: 20px;
+  color: #d7cfcf;
+  line-height: 2;
+  max-width: 437px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.passion img{
+    width: 100%;
+    margin-top: 50px;
+}
+.option{
+    margin-bottom: 100px;
+}
+.option img{
+   width: 120px;
+    margin-bottom: 50px;
+}
+.text h1{
+    top: 40%;
+    left: 20%;
+    position: absolute;
+    font-family: "Creepster", system-ui;
+    font-size: 5rem;
+    color: #ffffff;
+    font-style: italic;
+    font-weight: normal;
+}
+.passion{
+    position: relative;
+}
+.passion{
+    margin-bottom: 100px;
+}
+.seating h1{
+    font-family: "Creepster", system-ui;
+    font-size: 60px;
+    color: #d7cfcf;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.seating p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    line-height: 2;
+    max-width: 768px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.seating h2{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #c38e12;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.seating h2:hover{
+    color: #fff;
+    cursor: pointer;
+    transition: 1s;
+    text-decoration: underline;
+}
+.seating h3{
+    font-family: "Creepster", system-ui;
+    font-size: 50px;
+    color: #d7cfcf;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.afent h1{
+    font-family: "Creepster", system-ui;
+    font-size: 60px;
+    color: #d7cfcf;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.afent h2{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    line-height: 2;
+    max-width: 437px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.afent h3{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #c38e12;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.afent h3:hover{
+    color: #fff;
+    cursor: pointer;
+    transition: 1s;
+    text-decoration: underline;
+}
+.distance img{
+    width: 50%;
+    margin-bottom: 30px;
+    margin-top: 43px;
+}
+.distance h1{
+    font-family:sans-serif;
+    font-size: 16px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin: auto;
+}
+.distance h3{
+    font-family:sans-serif;
+    font-size: 16px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin: auto;
+}
+.distance h2{
+    font-family:sans-serif;
+    font-size: 16px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 90px;
+    margin: auto;
+    max-width: 489px;
+    margin-top: 50px;
+    line-height: 2;
+
+}
+.UNIVERSE h4{
+    font-family:sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 40px;
+    
+}
+.fa-burger{
+    font-size: 36px;
+    color: #d7cfcf;
+   margin: auto;
+}
+.UNIVERSE h5{
+    font-family:sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.UNIVERSE p{
+    font-family:sans-serif;
+    font-size: 16px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 40px;
+    margin: auto;
+    max-width: 489px;
+    margin-top: 50px;
+    line-height: 2;
+}
+.btn-primary{
+    background-color: #c38e12;
+    color: #fff;
+    font-weight: bold;
+    font-family:sans-serif;
+    font-size: 18px;
+    border: transparent;
+    padding: 10px 40px;
+}
+.btn-primary:hover{
+    background-color: transparent;
+    border: 1px solid  #fff;
+    cursor: pointer;
+}
+.UNIVERSE{
+    border: 1px solid #fff;
+    margin-bottom: 200px;
+    padding: 50px 0px;
+}
+.item{
+    margin-bottom: 200px;
+}
+
+.item-list h1{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 20px;
+   
+}
+.item-list p{
+    font-family:sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 50px;
+    max-width: 400px;
+    line-height: 2;
+    margin: auto;
+}
+.item-list:hover{
+    background-image: url(food-photographer-E94j3rMcxlw-unsplash.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+    width:400px;
+    height: 100%;
+    padding: 50px 0px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .7s;
+}
+.mar{
+    margin-top: 150px;
+}
+.VEGETAR{
+    margin-bottom: 200px;
+}
+.VEGETAR-content h1{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #c38e12;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 3px solid #fff;
+    border-top: 3px solid #fff;
+}
+.VEGETAR-content{
+    margin-bottom: 40px;
+}
+.ORDERS{
+    margin-bottom: 200px;
+}
+.ORDERS-content h1{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 40px;
+    
+}
+.ORDERS-content h2{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #d7cfcf;
+    font-weight: bold;
+    font-style: italic;
+}
+.slider{
+    margin-top: 100px;
+    margin-bottom: 200px;
+}
+.slider h1{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+.slider h2{
+    font-family: "Creepster", system-ui;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+.slider h3{
+    font-family: "Creepster", system-ui;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 10px;
+}
+.slider-text h1{
+    font-family: "Creepster", system-ui;
+    font-size: 10rem;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 100px;
+}
+.contact{
+    margin-bottom: 200px;
+}
+.contact h1{
+    font-family: "Creepster", system-ui;
+    font-size:50px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+.contact p{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #d7cfcf;
+    font-weight: bold;
+    font-style: italic;
+    margin-bottom: 30px;
+}
+input[type=text]{
+    width: 100%;
+    padding: 15px 85px;
+    margin: 8px 20px;
+    border: transparent;
+    background-color: transparent;
+    border-bottom: 3px solid #fff;
+  }
+  ::placeholder{
+    font-family: "Creepster", system-ui;
+    font-size:25px;
+    color: #d7cfcf;
+    font-weight: normal;
+    font-style: italic;
+    background-color: transparent;
+  }
+  .btn-primary1{
+    background-color: #d7cfcf;
+    border: transparent;
+    font-family: "Creepster", system-ui;
+    font-size:25px;
+    padding: 10px 30px;
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+  .btn-primary1:hover{
+    background-color: transparent;
+    border: 1px solid #fff;
+    cursor: pointer;
+    color: #fff;
+  }
+  .footer{
+    background-image: url(footer_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px 0px;
+  }
+  .footer h1{
+    font-family: "Creepster", system-ui;
+    font-size: 55px;
+    color: #fff;
+    font-style: italic;
+    margin-bottom: 50px;
+  }
+  .footer h2{
+    font-family: "Creepster", system-ui;
+    font-size: 20px;
+    color: #c38e12;
+    font-style: italic;
+    margin-bottom: 50px;
+    
+  }
+  .fa-phone, .fa-face-smile, .fa-bag-shopping, .fa-envelope,  .fa-newspaper,  .fa-heart, .fa-lock{
+    color: #fff;
+    font-size: 40px;
+    margin: 0px 10px;
+    margin-left: -10px;
+  }
+  .footer h3{
+    font-family: "Creepster", system-ui;
+    font-size: 30px;
+    color: #fff;
+    font-style: italic;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-bottom: 4px solid #fff;
+    border-width:5px;
+    
+  }
+  hr{
+    color: #fff;
+    height: 5px;
+    width: 20%;
+  }
+  .footer h4{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 1.7
+    ;
+  }
+  .footer h5{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    line-height: 1.7
+    ;
+  }
+  .footer h5:hover{
+    color: #c38e12;
+    cursor: pointer;
+  }
